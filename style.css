@@ -48,4 +48,5 @@ li {
 .delete {
     color: red;
     cursor: pointer;
+    font-weight: bolder;
 }
